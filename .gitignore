@@ -9,6 +9,8 @@
 /docs/*
 !/.github/ISSUE_TEMPLATE/
 /.github/ISSUE_TEMPLATE/*
+!/docs/wiki/
+/docs/wiki/*
 !/README.md
 !/CONTRIBUTING.md
 !/SECURITY.md
@@ -19,6 +21,18 @@
 !/docs/RESEARCH_POLICY.md
 !/docs/RELEASE_POLICY.md
 !/docs/PARTICIPATION_SCOPE.md
+!/docs/WIKI.md
+!/docs/wiki/Home.md
+!/docs/wiki/Project-Overview.md
+!/docs/wiki/Central-Adaptive-Cortex.md
+!/docs/wiki/Research-Cradle.md
+!/docs/wiki/Benchmark-001.md
+!/docs/wiki/Benchmark-002.md
+!/docs/wiki/Results-and-Limitations.md
+!/docs/wiki/Participation-and-Permissions.md
+!/docs/wiki/Glossary.md
+!/docs/wiki/_Sidebar.md
+!/docs/wiki/_Footer.md
 !/docs/TESTING.md
 !/docs/RESEARCH_STATUS.md
 !/assets/noesis-logo.png

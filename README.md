@@ -23,6 +23,7 @@ When a reviewed build becomes available, reproducible bug reports and independen
 black-box experiments will be welcome too.
 
 - [Tester guide and benchmark protocols](docs/TESTING.md)
+- [Project wiki](https://github.com/z0mbi3jesus/project-noesis/wiki) · [Wiki source index](docs/WIKI.md)
 - [Research status and limitations](docs/RESEARCH_STATUS.md)
 - [Contribution guide](CONTRIBUTING.md)
 - [Rights and licensing status](LICENSE.md)
