@@ -26,6 +26,7 @@ black-box experiments will be welcome too.
 - [Research status and limitations](docs/RESEARCH_STATUS.md)
 - [Contribution guide](CONTRIBUTING.md)
 - [Rights and licensing status](LICENSE.md)
+- [Research-and-development participation scope](docs/PARTICIPATION_SCOPE.md)
 - [Community conduct](CODE_OF_CONDUCT.md)
 - [Privacy and experimental data](PRIVACY.md)
 - [Research integrity](docs/RESEARCH_POLICY.md)
@@ -54,6 +55,19 @@ The implementation passed 47 automated tests and 15 functional cases during the
 v0.4.1 development validation, including 100-, 500-, and 1,000-encounter headless
 histories. These are developer-run checks, not independent scientific validation
 or guarantees for another machine. Benchmark 002 remains under review.
+
+## Participation and future licensing
+
+Current authorization is limited to approved NOESIS research-and-development
+participation as described in the [participation scope](docs/PARTICIPATION_SCOPE.md).
+6th Level LLC retains rights in its project materials; participation does not
+transfer ownership or grant a general implementation, distribution, or commercial
+license. Contributor rights remain separate.
+
+An open-source release may be considered when the theoretical CAC foundation is
+more clearly defined and experimentally validated. It requires explicit project-lead
+approval of both the released components and their license; it is not automatic or
+promised. Benchmark success does not prove the entire architecture.
 
 ## Scientific boundaries
 

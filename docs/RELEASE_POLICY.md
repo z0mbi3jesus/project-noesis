@@ -6,6 +6,13 @@ Effective: October 15, 2026
 and participation hub. Its automatic source archives are documentation packages,
 not application installers.
 
+The present invitation to help research and development is governed by the
+[participation scope](PARTICIPATION_SCOPE.md); it is not permission to distribute
+or use an unpublished application. Future tester terms and any open-source license
+are separate decisions requiring explicit approval. A possible open-source release
+depends on a more defined and experimentally validated foundation, not on a claim
+that the full theoretical CAC architecture has been proved.
+
 Before an application release, the project lead must approve the included
 capabilities, disclosed materials, licensing/distribution terms, and final artifacts.
 Executable packaging or obfuscation is not a guarantee that implementation details

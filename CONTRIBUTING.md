@@ -4,6 +4,10 @@ The current public contribution paths are documentation, research-method feedbac
 and experiment proposals. Tester downloads are on hold. The implementation is not
 included in this prepared public package.
 
+Participation is for helping NOESIS research and development, within the
+[approved scope](docs/PARTICIPATION_SCOPE.md). It does not grant ownership or a
+general software-use, redistribution, or commercialization license.
+
 ## Useful contributions
 
 - Review whether the documented conclusions follow from the evidence.

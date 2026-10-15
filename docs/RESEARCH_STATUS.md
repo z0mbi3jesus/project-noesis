@@ -32,3 +32,9 @@ scalability, or GUI responsiveness. No performance thresholds were used for succ
 
 Benchmark 002 remains under review. Future capabilities and release availability
 will be communicated separately rather than inferred from a roadmap.
+
+Community participation is currently authorized to help NOESIS research and
+development within the [participation scope](PARTICIPATION_SCOPE.md). An open-source
+release may be considered later, after a more clearly defined and experimentally
+validated CAC foundation and an explicit licensing decision. This is neither a
+release commitment nor a statement that the theoretical architecture is proved.

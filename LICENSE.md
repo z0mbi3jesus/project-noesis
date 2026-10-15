@@ -9,6 +9,12 @@ software license or a Creative Commons license. Public repository visibility alo
 does not grant a general license to reproduce, adapt, redistribute, sublicense, or
 commercially exploit protected project materials.
 
+Current participation is invited for approved NOESIS research and development,
+within the [participation scope](docs/PARTICIPATION_SCOPE.md). This is not a general
+research-use license for the implementation or a transfer of ownership. Separate
+software-use, modification, redistribution, commercialization, and branding
+permissions must not be inferred from the invitation to participate.
+
 This notice does not limit permissions or exceptions provided by applicable law,
 the GitHub Terms of Service, or a separate license or written permission that applies
 to a particular item. GitHub's platform permissions to view and fork a public
