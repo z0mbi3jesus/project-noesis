@@ -33,3 +33,18 @@ requiring private handling.
 Discuss observations and mechanisms respectfully. Avoid harassment and unsupported
 claims. Participation does not imply employment, project ownership, or permission
 to publish private project materials.
+
+See [community conduct](CODE_OF_CONDUCT.md), [privacy](PRIVACY.md), and
+[research integrity](docs/RESEARCH_POLICY.md) for the policies applying to this space.
+
+## Rights in contributions
+
+Read [LICENSE.md](LICENSE.md) before submitting protected material. No general
+reuse license has been chosen. Contributors retain copyright in their contributions;
+submission alone does not assign ownership to 6th Level LLC.
+
+Before merging a substantive documentation contribution, the maintainer and
+contributor should agree in writing on the permission needed to publish and maintain
+it. Do not submit material you lack authority to share. Bug observations and research
+ideas are welcome, but do not include confidential information. There is no blanket
+copyright assignment or contributor license agreement in this policy.

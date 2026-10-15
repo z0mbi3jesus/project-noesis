@@ -12,6 +12,12 @@ Diagnostic exports may include entered text, local paths/usernames, session IDs,
 stack traces, and other experimental data. Review every attachment before sharing.
 Reports are not sent automatically by the current application.
 
+See [PRIVACY.md](PRIVACY.md) for local diagnostic retention and the distinction
+between selected-session evidence and supporting logs that can span sessions.
+
 Tester downloads are pending. If reviewed builds are published later, use the
 project's official GitHub Releases. Checksums identify matching files; they do not
 replace code signing or an independent security review.
+
+The [release policy](docs/RELEASE_POLICY.md) describes required disclosures before
+any future tester distribution. No supported-release response deadline is promised.

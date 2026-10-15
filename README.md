@@ -25,6 +25,11 @@ black-box experiments will be welcome too.
 - [Tester guide and benchmark protocols](docs/TESTING.md)
 - [Research status and limitations](docs/RESEARCH_STATUS.md)
 - [Contribution guide](CONTRIBUTING.md)
+- [Rights and licensing status](LICENSE.md)
+- [Community conduct](CODE_OF_CONDUCT.md)
+- [Privacy and experimental data](PRIVACY.md)
+- [Research integrity](docs/RESEARCH_POLICY.md)
+- [Release policy](docs/RELEASE_POLICY.md)
 - [Report an issue](https://github.com/z0mbi3jesus/project-noesis/issues/new/choose)
 - [Releases](https://github.com/z0mbi3jesus/project-noesis/releases)
 
