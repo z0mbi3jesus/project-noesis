@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a reproducible application problem.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Review attachments for personal data, local paths, and private source. Use SECURITY.md for sensitive reports. Tester downloads are currently pending."
+  - type: input
+    id: version
+    attributes:
+      label: Application version and operating system
+      placeholder: "Example: NOESIS 0.4.1, Windows 11"
+    validations:
+      required: true
+  - type: dropdown
+    id: benchmark
+    attributes:
+      label: Workspace
+      options:
+        - Benchmark 001
+        - Benchmark 002
+        - Application or diagnostics
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps and input sequence
+      description: State whether you initialized a fresh session and list inputs in order.
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Expected and actual behavior
+      description: Include warning codes or whether the entire application unexpectedly terminated.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Reviewed evidence
+      description: Attach a redacted export or screenshot if appropriate. Note redactions.

@@ -1,0 +1,29 @@
+name: Experiment report
+description: Share a successful or unsuccessful tester experiment.
+title: "[Experiment]: "
+body:
+  - type: input
+    id: configuration
+    attributes:
+      label: Version, benchmark, and operating system
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method and exact input order
+      description: Identify the protocol and whether the session started fresh. Separate rejections from accepted inputs.
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Observed results and evidence
+      description: Include encounter references, classification, and any mismatch. Review attachments for personal data.
+    validations:
+      required: true
+  - type: textarea
+    id: interpretation
+    attributes:
+      label: Interpretation and limitations
+      description: Distinguish observations from a software assessment or research conclusion. Negative results are welcome.
